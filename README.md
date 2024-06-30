@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giharanavindu&label=Profile%20views&color=0e75b6&style=flat" alt="giharanavindu" /> </p>
 
-- 🔭 I’m currently working on enhancing my skills in machine learning and data science through various projects and coursework. **NFT marketplace We**
+- 🔭 I’m currently working on enhancing my skills in machine learning and data science through various projects and coursework.
 
 - 🌱 I’m currently learning **tensorflow,pandas,opencv**
 
