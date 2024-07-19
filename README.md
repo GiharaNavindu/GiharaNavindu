@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/gihara-rathnaweera/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gihara navindu rathnaweera" height="30" width="40" /></a>
-<a href="https://kaggle.com/gihara rahnaweera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gihara rahnaweera" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/gihararahnaweera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gihara rahnaweera" height="30" width="40" /></a>
 <a href="https://medium.com/@xGihazz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gihara rathnaweera" height="30" width="40" /></a>
 </p>
 
