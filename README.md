@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/gihara-rathnaweera/](https://www.linkedin.com/in/gihara-rathnaweera/)
 
-- 📝 I regularly write articles on [https://medium.com/@raviherath1961](https://medium.com/@raviherath1961)
+- 📝 I regularly write articles on [https://medium.com/@raviherath1961](https://medium.com/@xGihazz)
 
 - 💬 Ask me about **python,java,C++,MERN stack,pandas**
 
