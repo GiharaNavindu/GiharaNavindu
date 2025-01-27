@@ -74,6 +74,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giharanavindu&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
+### 📊 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=giharanavindu&theme=react-dark&hide_border=true&area=true" alt="GitHub Contribution Graph" />
+</p>
+
 ### 🎯 Current Focus
 
 ```python
@@ -91,19 +97,3 @@ class CurrentLearning:
             "Contribute to Open Source",
             "Write Technical Blogs"
         ]
-```
-
-### 📫 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/gihara-rathnaweera/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.kaggle.com/gihararahnaweera"><img width="32px" alt="Kaggle" title="Kaggle" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://medium.com/@xGihazz"><img width="32px" alt="Medium" title="Medium" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"/></a>
-</p>
-
----
-<p align="center">
-  <i>If you found my profile interesting, feel free to connect with me!</i>
-</p>
